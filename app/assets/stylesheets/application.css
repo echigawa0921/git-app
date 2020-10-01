@@ -24,12 +24,14 @@ body {
     color: #fff;
     text-align: center;
     font-size: 0.8rem;
-    background: url('images/bg.jpg') fixed;
+    background: url('images/DSC_0045 (1).JPG') fixed;
     background-size: cover;
+    background-size: 100vw
+
 }
 
 .header {
-    padding: 170px 30px 80px;
+    padding: 230px 30px 80px;
     height: 100vh;
     background-color: rgba(25, 25, 120, 0.9);
 }
