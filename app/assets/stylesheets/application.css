@@ -195,3 +195,9 @@ body {
     font-size: 4rem;
     border-bottom: double 4px #999;
 }
+.works-wrapper2{
+  display: flex;
+  justify-content: center;
+  width: 860px;
+  margin: auto;
+}
