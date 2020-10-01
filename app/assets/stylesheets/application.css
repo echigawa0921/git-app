@@ -109,6 +109,7 @@ body {
   
   .works-wrapper {
     display: flex;
+    justify-content: center;
     width: 860px;
     margin: 60px auto 0;
   }
@@ -124,6 +125,7 @@ body {
     display: block;
     width: 100%;
     padding: 10px;
+    
   }
   
   .work-description {
