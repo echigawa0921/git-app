@@ -29,7 +29,19 @@ body {
     background-size: 100vw
 
 }
-
+.head{
+  background-color: #f0f0f0;
+  padding-top: 10px;
+  align-items: center;
+  display: flex;
+}
+.navlist{
+  background-color: #f0f0f0;
+  padding-top: 10px;
+  align-items: center;
+  display: flex;
+}
+}
 .header {
     padding: 230px 30px 80px;
     height: 100vh;
