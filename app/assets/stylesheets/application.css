@@ -35,15 +35,27 @@ body {
   align-items: center;
   display: flex;
 }
+.title{
+  color: #383634;
+  font-weight: bold;
+  padding-left: 30px;
+}
 .navbar{
   width: 50%;
   padding: 20px;
 }
 .navlist{
-  background-color: #f0f0f0;
-  padding-top: 10px;
-  align-items: center;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
   display: flex;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
 .header {
     padding: 230px 30px 80px;
