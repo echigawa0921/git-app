@@ -42,8 +42,9 @@ body {
 }
 .navbar{
   width: 50%;
-  padding: 20px;
-}
+  padding-bottom: 15px;
+  margin-left: auto;
+  } 
 .navlist{
   font-size: 18px;
   margin: 0;
